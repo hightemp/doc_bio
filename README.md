@@ -5,3 +5,5 @@
 ## Статьи и заметки
 
 - [Гипотермия](docs/temperature/index.md)
+- Теория хаоса и биоритмы
+  - [](docs/chaos/article_01.md)
